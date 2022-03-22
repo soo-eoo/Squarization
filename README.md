@@ -7,7 +7,7 @@
 ``` python
 python squarization.py
 ```
-and follow the direction.
+and follow the direction. Your ouputs will be saved as 'final_image.png' and 'final_letter_image.png'
 
 3. If the output differs from your desirable output, try another image file or adjust the number of characters in your text file.
 
